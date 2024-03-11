@@ -5,7 +5,6 @@
 *Funcionalidade Github 🤖*
 
 
-Inicialize um repositório Git:
 
 
 **1- git init**
